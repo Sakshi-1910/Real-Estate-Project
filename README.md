@@ -1,44 +1,52 @@
-Real Estate UI - React + Tailwind CSS
+<h1>Real Estate UI - React + Tailwind CSS</h1>
 
-A modern and responsive Real Estate Website UI built using React and Tailwind CSS.
+A modern and responsive Real Estate Website UI built using React and Tailwind CSS. <br>
 This project includes Home, About, Projects, and Testimonials Pages with a clean and professional design.
 
-📌 Features
+<h2>📌 Features</h2>
 
-⭐ Home Page
+<h3>⭐ Home Page</h3>
 
-Beautiful hero section
-Clean layout with CTA buttons
+<h4>Beautiful hero section</h4> <br>
+<h4>Clean layout with CTA buttons</h4> <br>
 Modern real estate theme
 
-
-⭐ About Page
-
-Details about the real estate agency
-Shows number of completed projects
-Styled information blocks
+<img src="homepage.jpeg">
 
 
-⭐ Projects Page
+<h3>⭐ About Page</h3>
 
-Displays all real estate projects
-Responsive grid layout
-Each project section has images
+<h4>Details about the real estate agency</h4> <br>
+<h4>Shows number of completed projects</h4> <br>
+<h4>Styled information blocks</h4>
 
-
-⭐ Testimonials Page
-
-Real client reviews
-clean card based design
+<img src="about_page.jpeg">
 
 
-Tech Stack 
+<h3>⭐ Projects Page</h3>
 
-React.js : Frontend framework
-Tailwind CSS : Styling & responsiveness
+<h4>Displays all real estate projects</h4> <br>
+<h4>Responsive grid layout</h4> <br>
+<h4>Each project section has images</h4>
+
+<img src="project_page.jpeg">
+
+
+<h3>⭐ Testimonials Page</h3>
+
+<h4>Real client reviews</h4> <br>
+<h4>clean card based design</h4>
+
+<img src="review_page.jpeg">
+
+
+<h3>Tech Stack </h3>
+
+React.js : Frontend framework <br>
+Tailwind CSS : Styling & responsiveness <br>
 Vite
 
 License
 
-This project is for learning and UI demonstration purposes.
+This project is for learning and UI demonstration purposes. <br>
 Feel free to use or modify it.
